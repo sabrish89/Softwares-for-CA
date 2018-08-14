@@ -9,7 +9,7 @@ The R and Python scripts are converted to html and hence do not need any compile
 Thank you.
 The Ensemblers.
 
-Ankita Avadhani           A0178495J
-Bethapudi Keerthana     	A0178493M
-Rajan Dhingra             A0178367M
+Ankita Avadhani           A0178495J</br>
+Bethapudi Keerthana     	A0178493M</br>
+Rajan Dhingra             A0178367M</br>
 Sabrish Gopalakrishnan 		A0178314A
